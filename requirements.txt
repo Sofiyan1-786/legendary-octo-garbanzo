@@ -11,3 +11,4 @@ typedframe
 lightgbm
 plotly
 torch
+transformers
