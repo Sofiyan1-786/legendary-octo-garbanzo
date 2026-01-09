@@ -1,0 +1,11 @@
+jupytext
+matplotlib
+numpy
+pandas
+pyarrow
+rdkit
+scikit-learn
+seaborn
+scikit-fingerprints
+typedframe
+lightgbm
