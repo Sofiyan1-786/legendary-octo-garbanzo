@@ -10,3 +10,4 @@ scikit-fingerprints
 typedframe
 lightgbm
 plotly
+torch
